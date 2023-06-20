@@ -26,7 +26,6 @@
 
 
 ## Hello 👍
-<br/>
 
 ### Who am i
  - Studying Computer Science 💻
@@ -35,8 +34,6 @@
  <br/>
 
  ## Language and Tools
-
-<br/>
 
 <p align="left">
 <a href="https://www.php.net/manual/pt_BR/" target="_blank">
