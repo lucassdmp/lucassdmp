@@ -8,14 +8,14 @@
   <a href="https://github.com/lucassdmp">
     <img
       align="center"
-      height="180"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdmp&card_width=150&layout=compact&theme=midnight-purple"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="180"
+      height="150"
       src="https://github-readme-stats.vercel.app/api?username=lucassdmp&theme=midnight-purple&include_all_commits=true&rank_icon=github&show_icons=true&hide=stars,issues"
     />
   </a>
