@@ -1,7 +1,6 @@
 <p align="center">
   <a href="#">
-    <img style="border: 1px solid #f5f5f5;
-    border-radius: 4.5px" align="center" width="280" src="header.png" />
+    <img align="center" width="280" src="header.png" />
   </a>
 </p>
 
